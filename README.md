@@ -4,6 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AB127&center=true&width=435&lines=hello+world" alt="Typing SVG" /></a>
 ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=smorayzmaaitat&theme=aura&align=right)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smorayzmaaitat&theme=dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=anaschaouki&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=anaschaouki&theme=dark&hide_border=true)
 
 
